@@ -1,0 +1,34 @@
+{
+  "Gemüse": [
+    {
+      "id": 1,
+      "title": "Zwiebeln"
+    },
+    {
+      "id": 2,
+      "title": "Tomaten"
+    },
+    {
+      "id": 3,
+      "title": "Kartoffeln"
+    }
+  ],
+  "Obst": [
+    {
+      "id": 1,
+      "title": "some comment",
+    },
+    {
+      "id": 2,
+      "title": "some comment",
+    }
+  ],
+  "Fleisch": [{
+    "name": "typicode"
+  }],
+  "Getränke": [
+    {
+
+    }
+  ]
+}
