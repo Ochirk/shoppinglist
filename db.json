@@ -1,29 +1,31 @@
 {
-  "Gemüse": [
+  "posts": [
     {
       "id": 1,
-      "title": "Zwiebeln"
+      "title": "Post 1"
     },
     {
       "id": 2,
-      "title": "Tomaten"
+      "title": "Post 2"
     },
     {
       "id": 3,
-      "title": "Kartoffeln"
+      "title": "Post 3"
     }
   ],
-  "Obst": [
+  "comments": [
     {
       "id": 1,
-      "title": "some comment"
+      "body": "some comment",
+      "postId": 1
     },
     {
       "id": 2,
-      "title": "some comment"
+      "body": "some comment",
+      "postId": 1
     }
   ],
-  "Fleisch": [{
+  "profile": {
     "name": "typicode"
-  }]
+  }
 }
