@@ -16,19 +16,14 @@
   "Obst": [
     {
       "id": 1,
-      "title": "some comment",
+      "title": "some comment"
     },
     {
       "id": 2,
-      "title": "some comment",
+      "title": "some comment"
     }
   ],
   "Fleisch": [{
     "name": "typicode"
-  }],
-  "Getränke": [
-    {
-
-    }
-  ]
+  }]
 }
